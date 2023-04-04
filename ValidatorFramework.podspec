@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ValidatorFramework"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.4"
   spec.summary      = "This is Validator Framework"
   spec.description  = "I have no idea what to write as a description"
 
