@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/ValidatorFramework-Swift.h</key>
 		<data>
-		0ZidRmQf7gLy7Y8eZ3cytSgIiTI=
+		yvk/t8naqeYD630sLE1d+sVZ0pI=
 		</data>
 		<key>Headers/ValidatorFramework.h</key>
 		<data>
@@ -16,21 +16,45 @@
 		<data>
 		ioF8UQl+x0z7R1fMsM7Eylo5CnM=
 		</data>
-		<key>Modules/ValidatorFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/ValidatorFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		vNvCS72BYUl2g8YQYWXMezWMcpo=
+		9mFvXaivxBb+bf381XzLXFNSDg0=
+		</data>
+		<key>Modules/ValidatorFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		8okFI1lo1DV2M+tKzzuUgb21rEU=
+		</data>
+		<key>Modules/ValidatorFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		GvNiX/LLLjSEIVdSlzG3KkFmU8o=
+		</data>
+		<key>Modules/ValidatorFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		8okFI1lo1DV2M+tKzzuUgb21rEU=
+		</data>
+		<key>Modules/ValidatorFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		1J/vwevj6tVr/8rEmLF0k6/R1d4=
 		</data>
 		<key>Modules/ValidatorFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		9mFvXaivxBb+bf381XzLXFNSDg0=
+		</data>
+		<key>Modules/ValidatorFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		69fCv/aE7RNDVcMElwP5iB23RGM=
 		</data>
 		<key>Modules/ValidatorFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		7KtmAREbM7AbctUcQgeXcfIdOoA=
 		</data>
+		<key>Modules/ValidatorFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		69fCv/aE7RNDVcMElwP5iB23RGM=
+		</data>
 		<key>Modules/ValidatorFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		R+i3mVTm77C1McKys6Kz+sqrJbs=
+		JurJVCTgh531R/W83hjnYhLXLBE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HoRMsS98X2ogKPqZqotboZPXJHg+KJur26x0h1gTP1o=
+			XzRfn03SihkjSX8Zkgzb9219XB8FfWDc/gU5sV+TBv0=
 			</data>
 		</dict>
 		<key>Headers/ValidatorFramework.h</key>
@@ -53,18 +77,53 @@
 			WACuNNEJ/naBxhflP4auo3buCZtO5Vi31e+trgiLb+8=
 			</data>
 		</dict>
-		<key>Modules/ValidatorFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/ValidatorFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bDYOPkCti0iJ5oSUk8gAKTe7YrbqOQVhglEYOIr28+s=
+			bq25bSMAr7Mah/5m0ojik2hXAs9MfJ7exsM08d4WjT4=
+			</data>
+		</dict>
+		<key>Modules/ValidatorFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dUMRzSDB3tN4Zmajgbg8KeEsW87kHWYU4G21rKaYl/M=
+			</data>
+		</dict>
+		<key>Modules/ValidatorFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SKbAE9dZQLWTfV8a2hQJrJNk6gPF9fgSSsgOfXyrOO4=
+			</data>
+		</dict>
+		<key>Modules/ValidatorFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dUMRzSDB3tN4Zmajgbg8KeEsW87kHWYU4G21rKaYl/M=
+			</data>
+		</dict>
+		<key>Modules/ValidatorFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yqrz6Ay677+8D/tbVbUMKtzqLhh+aafhLgpuaHqwcJ4=
 			</data>
 		</dict>
 		<key>Modules/ValidatorFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			bq25bSMAr7Mah/5m0ojik2hXAs9MfJ7exsM08d4WjT4=
+			</data>
+		</dict>
+		<key>Modules/ValidatorFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			06s4tzZxPAPIa1s5a+5u4e9XWcteK0CEOF373aMRAOQ=
 			</data>
 		</dict>
 		<key>Modules/ValidatorFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -74,11 +133,18 @@
 			BR3y0L8/Wi0CbSarn3V2oSogelLx5vZhca7TXVLYz0Y=
 			</data>
 		</dict>
+		<key>Modules/ValidatorFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			06s4tzZxPAPIa1s5a+5u4e9XWcteK0CEOF373aMRAOQ=
+			</data>
+		</dict>
 		<key>Modules/ValidatorFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TWbJUxpp1TtbuVdR5wrEHtujxOgVRLt4JDxLPMrtkRk=
+			rF9hQNzBU85ika/TPai8EI5UjycdrrQSwm4OVC+r5HM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
